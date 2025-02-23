@@ -1,0 +1,4 @@
+# Ignore MongoDB data directory
+mongo-server/data/
+__pycache__/
+.env
