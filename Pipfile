@@ -8,6 +8,7 @@ fastapi = {extras = ["standard"], version = "*"}
 beanie = "*"
 asyncio = "*"
 motor = "*"
+mongomock-motor = "*"
 
 [dev-packages]
 

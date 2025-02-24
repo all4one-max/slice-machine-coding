@@ -1,0 +1,2 @@
+class RandomException(Exception):
+    pass
